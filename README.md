@@ -31,3 +31,5 @@ and command that:
 python todo.py
 
 Now you're ready to see the project. Go to http://localhost:5000 and make a daily list to do!
+
+Stay with Python!
